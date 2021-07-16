@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Founder
+    company: EIGHT-BA
+    company_url: 'https://www.eight-ba.com/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Singapore
+    date_start: '2017-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Create strategic plans of entry and expansion for clients, to develop their businesses and identify opportunities within APAC, including China
+        * Generate data driven actionable insights and plans of action, through sound market research (analytical & fact finding)
+
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Head of Strategic Business Development (Asia)
+    company: Polaris Sports
+    company_url: 'https://www.polarissports.pt/'
     company_logo: org-x
-    location: California
     date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_end: ''
+    description:  Drive business development activities in Asia, including client acquisition and retention, for multi-million sports marketing and image rights deals relating to world-class sports personalities
 
 design:
   columns: '2'
