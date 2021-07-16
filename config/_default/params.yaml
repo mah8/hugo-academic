@@ -27,6 +27,8 @@ address:
   country: SINGAPORE
   country_code: SG
 contact_links:
+    name: 038987 SINGAPORE
+contact_links:
   - icon: linkedin
     icon_pack: fab
     name: Linkedin
