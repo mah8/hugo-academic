@@ -25,7 +25,7 @@ experience:
   - title: Founder
     company: EIGHT-BA
     company_url: 'https://www.eight-ba.com/'
-    company_logo: org-gc
+    company_logo: org-
     location: Singapore
     date_start: '2017-01-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Head of Strategic Business Development (Asia)
     company: Polaris Sports
     company_url: 'https://www.polarissports.pt/'
-    company_logo: org-x
+    company_logo: org-
     date_start: '2016-01-01'
     date_end: ''
     description:  Drive business development activities in Asia, including client acquisition and retention, for multi-million sports marketing and image rights deals relating to world-class sports personalities
