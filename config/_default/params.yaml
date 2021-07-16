@@ -23,8 +23,9 @@ twitter: ''
 email: welcome@eight-ba.com
 phone: +65 8818 3516
 address:
-  street:  7 Temasek Boulevard #12-07 - Suntec Tower One
-  postcode: '038987'
+  street:  7 Temasek Boulevard
+  postcode: '#12-07 - Suntec Tower One'
+  city: 038987 SINGAPORE
   country: SINGAPORE
   country_code: SG
 contact_links:
