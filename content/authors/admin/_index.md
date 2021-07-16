@@ -6,9 +6,9 @@ bio: My research interests lie in the sustained economic viability of sports
   team, especially in managing their budgets to achieve short-term competitive
   success, while investing in longer-term strategic plans.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Football Management
+  - Teams
+  - Sports Science
 social:
   - icon: linkedin
     icon_pack: fab
