@@ -13,7 +13,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/hugoalvesmartins
-organizations: []
+organizations: 
+  - EIGHT-BA Football Consulting
+  - Polaris Sports
 education:
   courses:
     - course: PhD in Management
@@ -25,9 +27,9 @@ education:
     - course: BSc in Economics
       institution: Universidade do Porto
       year: 1997
-email: ""
+email: "welcome@eight-ba.com"
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
 Born in Portugal and based in Singapore, Hugo is a highly experienced football consultant. He has been involved in sale and purchase of international football clubs, inter-continent football talent transfers, marketing campaigns across Asia and football-related crypto projects. Deals which Hugo has led involved renowned football personalities, such as Cristiano Ronaldo, James Rodriguez, and Jose Mourinho.
 
