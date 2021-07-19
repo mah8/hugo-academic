@@ -16,7 +16,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 40
-name: Eight-Ba
+  - name: Eight-Ba
     url: 'https://www.eight-ba.com/'
     weight: 50
 
