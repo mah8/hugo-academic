@@ -15,8 +15,13 @@ font_size: L
 site_type: Person
 local_business_type: 'Football Asia'
 org_name: 'EIGHT-BA'
-description: ''
-twitter: ''
+description: 'Based in Singapore, EIGHT-BA is an Asia-centric Football Consultancy firm. We aim to help transform football in Asia through our thought leadership, in-depth and hands-on experience, as well as exclusive access to a global network of reputable football partners.
+
+We work closely with key stakeholders to develop best-in-class solutions throughout the entire football business value chain. Our areas of expertise include, but are not limited to, investments in clubs in major leagues, talent development and management, media engagement and marketing, as well as sports technology.
+
+With EIGHT-BA, you are assured of pragmatic bespoke advice, tailored according to your specific needs.'
+
+linkedin: 'https://www.linkedin.com/in/hugoalvesmartins'
 
 # Contact (edit or remove options as required)
 
@@ -80,7 +85,7 @@ copyright_license:
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 publications:
   date_format: January 2006
