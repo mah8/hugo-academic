@@ -8,12 +8,7 @@ bio: Born in Portugal and based in Singapore, Hugo is a highly experienced
   marketing campaigns across Asia and football-related crypto projects. Deals
   which Hugo has led involved renowned football personalities, such as Cristiano
   Ronaldo, James Rodriguez, and Jose Mourinho.
-social:
-  - display:
-      header: false
-    icon_pack: ai
-    icon: linkedin
-    link: https://www.linkedin.com/in/hugoalvesmartins
+social: []
 superuser: false
 ---
 Born in Portugal and based in Singapore, Hugo is a highly experienced football consultant. He has been involved in sale and purchase of international football clubs, inter-continent football talent transfers, marketing campaigns across Asia and football-related crypto projects. Deals which Hugo has led involved renowned football personalities, such as Cristiano Ronaldo, James Rodriguez, and Jose Mourinho.
