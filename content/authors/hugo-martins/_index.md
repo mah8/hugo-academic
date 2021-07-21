@@ -1,7 +1,7 @@
 ---
 title: Hugo Martins
 role: Football Management Consultant
-avatar_filename: https://www.eight-ba.com/images/pic2.jpg
+avatar_filename: pic2.jpg
 bio: Born in Portugal and based in Singapore, Hugo is a highly experienced
   football consultant. He has been involved in sale and purchase of
   international football clubs, inter-continent football talent transfers,
